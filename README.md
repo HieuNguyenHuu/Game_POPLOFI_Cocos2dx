@@ -41,9 +41,7 @@ All code of this Game in **"Classes"** folder and All Resource in **"Resources"*
 
 Way to build this game again just creater your new Cocos2dx project and put **"Classes"** and **"Resources"** to direction of your new folder and build it
 
-![9](/images/9.png)
-![11](/images/11.png)
-![14](/images/14.png)
+Full report of this game in file **"report_Poplofi.docx"**
 
 ## In Game Images
 
@@ -55,6 +53,9 @@ Way to build this game again just creater your new Cocos2dx project and put **"C
 ![6](/images/6.png)
 ![20](/images/20.png)
 ![21](/images/21.png)
+![9](/images/9.png)
+![11](/images/11.png)
+![14](/images/14.png)
 
 ## How To Run
 
